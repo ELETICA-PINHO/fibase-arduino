@@ -1,14 +1,13 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
-#define WIFI_SSID "SERVIDOR"
-#define WIFI_PASSWORD "#EletricaPinho#"
+#define WIFI_SSID "xxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxxxxxxxxxxxxx"
 
-#define FIREBASE_HOST  "teste-lampada-3e722.firebaseio.com"
-#define FIREBASE_AUTH  "HUIWqbI8wAIWZQfSyRbGpaZ8fuiydK0p5CJ3k8gr"
+#define FIREBASE_HOST  "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-//#define FIREBASE_HOST  "lampadaquarto.firebaseio.com"
-//#define FIREBASE_AUTH  "3eqd4TavzXsC9GgxER3BMwipTJBdNrKnKp1KHDL3"
+
 
 
 #define  PULSADOR1   2
